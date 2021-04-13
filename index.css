@@ -316,7 +316,7 @@ header .navbar-nav a {
 .comingSoon__title h1::after {
   content: "";
   display: block;
-  width: 20%;
+  width: 15%;
   height: 3px;
   background-image: linear-gradient(to right, #fbbd61, #ec7532);
   position: absolute;
